@@ -1,10 +1,10 @@
 # python_game:利用pygame module自製python遊戲
 
 1. **參考資料**:
-  *Pygame homepage: http://pygame.org 
-  *documentation:http://pygame.org/docs/ref
-  *icon archive:https://iconarchive.com/ (遊戲腳色下載)
-  *leshylabs:https://www.leshylabs.com/apps/sfMaker/ (音效下載)
+    1. Pygame homepage: http://pygame.org 
+    2. documentation:http://pygame.org/docs/ref
+    3. icon archive:https://iconarchive.com/ (遊戲腳色下載)
+    4. leshylabs:https://www.leshylabs.com/apps/sfMaker/ (音效下載)
   
  ------
 2. **what is pygame?**
