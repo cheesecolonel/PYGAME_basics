@@ -34,6 +34,6 @@ displayscreen.blit(show_text_2,show_text_2_rect)
 pygame.display.update()
 ```
 
-**_5.Game assets_**
-    1. [icon archive:](https://iconarchive.com/)網站提供遊戲腳色下載
-    2. [leshylabs:](https://www.leshylabs.com/apps/sfMaker/)
+**_5.Game assets_**<br>
+[icon archive:](https://iconarchive.com/)網站提供遊戲腳色下載
+[leshylabs:](https://www.leshylabs.com/apps/sfMaker/)網站提供音效製作與下載
