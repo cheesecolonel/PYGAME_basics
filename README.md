@@ -8,10 +8,10 @@
   
  ------
 2. **what is pygame?**
-  * pygame 提供 display,sound,image,text,event 等模組
-  * pygame可製作2d遊戲
-  * pygame偵測使用者鍵盤、搖桿與滑鼠
-  * pygame可提供內建game objects來做遊戲
+    1. pygame 提供 display,sound,image,text,event 等模組
+    2. pygame可製作2d遊戲
+    3. pygame偵測使用者鍵盤、搖桿與滑鼠
+    4. pygame可提供內建game objects來做遊戲
 
 **_3.pygame basics_**:
 | name | description |
