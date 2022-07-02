@@ -1,10 +1,8 @@
 # python_game:利用pygame module自製python遊戲
 
 #### 參考資料:
-
-
-  * Pygame homepage: http://pygame.org
-  * documentation:http://pygame.org/docs/ref
+    1. Pygame homepage: http://pygame.org
+    2. documentation:http://pygame.org/docs/ref
  ------
 * what is pygame?
   * pygame 提供 display,sound,image,text,event 等模組
