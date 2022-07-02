@@ -1,5 +1,6 @@
-# python_game
-### 利用pygame module自製python遊戲
+# python_game:利用pygame module自製python遊戲
+
+#### 參考資料:
 
 
 * Pygame homepage: http://pygame.org
