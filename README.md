@@ -12,3 +12,10 @@
   * pygame可製作2d遊戲
   * pygame偵測使用者鍵盤、搖桿與滑鼠
   * pygame可提供內建game objects來做遊戲
+
+**_3.pygame basics_**:
+| name | description |
+|:-----:|:----------:|
+| _1.py_ | Create game surface , game loop and drawing|
+| _2.py_ | Blit text, font, sound and image objects.|
+| _3.py_ | Getting keyboard and collection dection
