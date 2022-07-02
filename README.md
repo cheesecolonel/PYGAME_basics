@@ -13,9 +13,17 @@
     3. pygame偵測使用者鍵盤、搖桿與滑鼠
     4. pygame可提供內建game objects來做遊戲
 
-**_3.pygame basics_**:
+**_3.pygame basics_**
 | name | description |
 |:-----:|:----------:|
 | _1.py_ | Create game surface , game loop and drawing|
 | _2.py_ | Blit text, font, sound and image objects.|
 | _3.py_ | Getting keyboard and collection dection
+
+**_4.Code snippet_**
+```python
+#create game display
+window_width,window_height=800,600
+displayscreen = pygame.display.set_mode((window_width,window_height))
+pygame.display.set_caption("MY FIRST PYGAME !")
+```
