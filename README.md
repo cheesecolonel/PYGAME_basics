@@ -37,3 +37,5 @@ pygame.display.update()
 **_5.Game assets_**<br>
 [icon archive:](https://iconarchive.com/)網站提供遊戲腳色下載<br>
 [leshylabs:](https://www.leshylabs.com/apps/sfMaker/)網站提供音效製作與下載
+
+<img src="" width="400" height="300" alt="2.py程式截圖><br>
