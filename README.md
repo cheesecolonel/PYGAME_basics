@@ -3,8 +3,8 @@
 #### 參考資料:
 
 
-* Pygame homepage: http://pygame.org
-* documentation:http://pygame.org/docs/ref
+  * Pygame homepage: http://pygame.org
+  * documentation:http://pygame.org/docs/ref
  ------
 * what is pygame?
   * pygame 提供 display,sound,image,text,event 等模組
