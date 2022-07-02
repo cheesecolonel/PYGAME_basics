@@ -27,3 +27,12 @@ window_width,window_height=800,600
 displayscreen = pygame.display.set_mode((window_width,window_height))
 pygame.display.set_caption("MY FIRST PYGAME !")
 ```
+```python
+#blit
+pygame.draw.line(displayscreen,WHITE,(0,75),(window_width,75),5)
+displayscreen.blit(bird_topleft,bird_topleft_rect)
+displayscreen.blit(bird_topright,bird_topright_rect)
+displayscreen.blit(show_text_1,show_text_1_rect)
+displayscreen.blit(show_text_2,show_text_2_rect)
+pygame.display.update()
+```
