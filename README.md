@@ -38,4 +38,4 @@ pygame.display.update()
 [icon archive:](https://iconarchive.com/)網站提供遊戲腳色下載<br>
 [leshylabs:](https://www.leshylabs.com/apps/sfMaker/)網站提供音效製作與下載
 
-<img src="" width="400" height="300" alt="2.py程式截圖><br>
+<img src="https://github.com/cheesecolonel/PYGAME_basics/blob/main/python_pic.png" width="400" height="300" alt="2.py程式截圖><br>
