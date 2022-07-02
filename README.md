@@ -1,6 +1,6 @@
 # python_game:利用pygame module自製python遊戲
 
-#### **參考資料**:
+ **參考資料**:
         1. Pygame homepage: http://pygame.org
         2. documentation:http://pygame.org/docs/ref
         3. icon archive:https://iconarchive.com/ (遊戲腳色下載)
