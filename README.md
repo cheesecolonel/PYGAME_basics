@@ -3,9 +3,6 @@
 1. **參考資料**:
     1. Pygame homepage: http://pygame.org 
     2. documentation:http://pygame.org/docs/ref
-    3. icon archive:https://iconarchive.com/ (遊戲腳色下載)
-    4. leshylabs:https://www.leshylabs.com/apps/sfMaker/ (音效下載)
-  
  ------
 2. **what is pygame?**
     1. pygame 提供 display,sound,image,text,event 等模組
@@ -36,3 +33,7 @@ displayscreen.blit(show_text_1,show_text_1_rect)
 displayscreen.blit(show_text_2,show_text_2_rect)
 pygame.display.update()
 ```
+
+**_5.Game assets_**
+    1. [icon archive:](https://iconarchive.com/)網站提供遊戲腳色下載
+    2. [leshylabs:](https://www.leshylabs.com/apps/sfMaker/)
